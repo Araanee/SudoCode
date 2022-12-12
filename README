@@ -1,0 +1,25 @@
+# SudoCode
+
+## Description
+OCR project for sudoku resolution. The program takes as input an image representing a sudoku grid and will display as output the solved grid.
+
+## Compilation
+### commands:
+    make : compiles the code to an executable file
+    make clean : deletes the executable and .d .o files
+
+## Usage
+to complete later on
+
+## Support
+If you're having any trouble concerning the projet please contact any of the following emails for help.
+rawane.ouffa@epita.fr\
+christina.lopes@epita.fr\
+zaky.hamdoun@epita.fr\
+dima.dhehibi@epita.fr\
+
+## Authors and acknowledgment
+Special thanks to the SudoCode team
+
+## Project status
+Project starting on september 23 of 2022
