@@ -6,10 +6,10 @@ OCR project for sudoku resolution. The program takes as input an image represent
 ## Compilation
 ### commands:
     make : compiles the code to an executable file
-    make clean : deletes the executable and .d .o files
+    make clean : deletes the executable, and every other files/folder created during compilation
 
 ## Usage
-to complete later on
+./main : launches the gtk interface, where everything can be done
 
 ## Support
 If you're having any trouble concerning the projet please contact any of the following emails for help.
@@ -23,3 +23,4 @@ Special thanks to the SudoCode team
 
 ## Project status
 Project starting on september 23 of 2022
+Project ending on December 11 of 2022
